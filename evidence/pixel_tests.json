@@ -1,0 +1,30 @@
+[
+  {
+    "name": "regression",
+    "cycles": 175283,
+    "frames": 75,
+    "pixels": 153600,
+    "passed": true
+  },
+  {
+    "name": "reset",
+    "cycles": 8882,
+    "frames": 4,
+    "pixels": 8192,
+    "passed": true
+  },
+  {
+    "name": "width1280",
+    "cycles": 20586,
+    "frames": 2,
+    "pixels": 20480,
+    "passed": true
+  },
+  {
+    "name": "preview",
+    "cycles": 696635,
+    "frames": 3,
+    "pixels": 691200,
+    "passed": true
+  }
+]
