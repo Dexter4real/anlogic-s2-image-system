@@ -1,0 +1,12 @@
+sim/out/
+__pycache__/
+*.pyc
+.venv/
+vendor/
+baseline/
+*.bit
+*.bin
+*.db
+*.zip
+*.lic
+.env
